@@ -77,7 +77,7 @@ import org.springframework.web.util.UriTemplateHandler;
  * modern alternative to the {@code RestTemplate} with efficient support for
  * both sync and async, as well as streaming scenarios. The {@code RestTemplate}
  * will be deprecated in a future version and will not have major new features
- * added going forward.
+ * gong forward.
  *
  * @author Arjen Poutsma
  * @author Brian Clozel
